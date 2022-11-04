@@ -1,0 +1,12 @@
+node_modules/
+android/
+ios/
+
+commitlint.config.js
+
+*.lock
+
+.husky/
+.editorconfig
+.lintstagedrc
+.prettierignore
