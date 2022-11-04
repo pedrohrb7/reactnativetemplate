@@ -20,7 +20,7 @@ This project was created with the command:
 
 ## How to use
 
-You can follow the steps by hiting the button 'Use this template'
+You can follow the steps just pressing 'Use this template'
 
 Or
 
