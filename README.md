@@ -1,5 +1,4 @@
 # React Native Template
-===============================================================
 
 
 #### This template should help someone who want start a project with react native and sometimes don't want to do all that settings to use husky, commit lint... Feel free to send advices, suggestions and etc
